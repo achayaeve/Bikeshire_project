@@ -3,10 +3,10 @@
 14/11/2023
 
 ### Project Title
-Git
+Introduction to Version Control
 
 ### Description
-This is my Udacity project posted on Github
+Learn how to use version control to save and share your project with others
 
 ### Files used
 Bikeshare.py
