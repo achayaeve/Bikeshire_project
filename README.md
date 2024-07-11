@@ -14,5 +14,3 @@ Bikeshare.py
 ### Credits
 Credits to Access Bank and Udacity
 
-Thank You 
-Udacity is nice 
